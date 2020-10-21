@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "slika":{
+            "src":"img/vino.jpg",
+            "alt":"pice1"
+        },
+        "tekst":"Crno vino",
+        "klasa":"tm-feature-icon",
+        "opisi":{
+            "id":"opis1",
+            "opisTekst":"Merlot je vrsta crnog grožđa tamno plave boje. Ima mala zrna sa tankom kožom, a ukus ima tragove borovnice i mente. Zajedno sa sortama kaberne sovinjon, kaberne frank, malbek i pti verdo, to je jedna od osnovnih sorti koje se gaje u vinogradarskoj oblasti Bordoa na jugozapadu Francuske. Godine 2004. sorta merlo je gajena na 260.000 hektara u svetu, sa tendencijom povećanja."
+        }
+    },
+    {
+        "id":2,
+        "slika":{
+            "src":"img/vino2.jpg",
+            "alt":"pice2"
+        },
+        "tekst":"Belo vino",
+        "klasa":"tm-feature-icon",
+        "opisi":{
+            "id":"opis2",
+            "opisTekst":"Šardone - Beli šardone je verovatno najtraženije grožđe na svetu. Bolje uspeva na siromašnijem zemljištu, ali se prilagođava i drugim tipovima. Daje male grozdove tanke kože. Rano cveta i zri. Danas se gaji u svakoj zemlji u kojoj se pravi vino."
+        }
+
+    },
+    {
+        "id":3,
+        "slika":{
+            "src":"img/vino3.jpg",
+            "alt":"pice3"
+        },
+        "tekst":"Brandy viski",
+        "klasa":"tm-feature-icon",
+        "opisi":{
+            "id":"opis3",
+            "opisTekst":"Čivas Regal je mešani Škotski viski proizveden od strane braće Čivas, Koja je deo Pernod Ričarda. Čivas Regal vuče korene još iz 1801. Nastanak Čivas Regala je Stratisla destilerija u Keit, Morej u Stratspej, Škotska, najstarija operativna destilerija viskija, koja je osnovana 1786."
+        }
+    }
+]

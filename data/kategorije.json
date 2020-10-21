@@ -1,0 +1,20 @@
+[
+    {
+        "id":0,
+        "naziv":"Sve"
+    },
+    {
+        "id":1,
+        "naziv":"Pica"
+    },
+
+    {
+        "id":2,
+        "naziv":"Pasta"
+    },
+
+    {
+        "id":3,
+        "naziv":"Salata"
+    }
+]

@@ -1,0 +1,6 @@
+User-agent:*
+Crawl-delay:10
+#Directories
+Dissallow: /images/
+Dissallow: /css/
+Dissallow: /data/

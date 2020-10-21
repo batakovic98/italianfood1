@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "slika": {
+            "src":"img/proizvodi/pica1.jpg",
+            "alt":"slika1"
+        },
+        "naziv": "Capricciosa",
+        "katId":  1,
+        "opis":"Capricciosa — paradajz-pire, gauda, šunka, šampinjoni, masline.",
+        "cena":500
+    },
+
+    {
+        "id": 2,
+        "slika": {
+            "src":"img/proizvodi/pasta2.jpg",
+            "alt":"slika5"
+        },
+        "naziv": "Carbonara",
+        "katId":  2,
+        "opis":"Carbonara — špagete, mesnata slanina, pavlaka, parmezan, tvrdi žuti sir, beli luk, maslinovo ulje, peršun",
+        "cena":400
+    },
+
+    {
+        "id": 3,
+        "slika": {
+            "src":"img/proizvodi/salata1.jpg",
+            "alt":"slika9"
+        },
+        "naziv": "Cezar salata",
+        "katId": 3,
+        "opis":"Cezar salata — dimljene slanine, belo pileće meso, parmezan, beli luk, tost hleb, glavica zelene salate, čeri paradajz, limun, pavlaka, majonez, maslinovo ulje.",
+        "cena":450
+    },
+
+    {
+        "id": 4,
+        "slika": {
+            "src":"img/proizvodi/pasta1.jpg",
+            "alt":"slika6"
+        },
+        "naziv": "Bolognese",
+        "katId":  2,
+        "opis":"Bolognese — špagete, mleveno meso, paradajz pire, crni luk, origano, bosiljak, majoran, kačkavalj, parmezan",
+        "cena":360
+    },
+
+    {
+        "id": 5,
+        "slika": {
+            "src":"img/proizvodi/salata4.jpg",
+            "alt":"slika12"
+        },
+        "naziv": "Šopska salata",
+        "katId":  3,
+        "opis":"Šopska salata — zelena paprika, krastavac, paradajz, crni luk, ljute papričice, punomasni sir.",
+        "cena":250
+    },
+    
+    {
+        "id": 6,
+        "slika": {
+            "src":"img/proizvodi/pica2.jpg",
+            "alt":"slika2"
+        },
+        "naziv": "Quattro stagione",
+        "katId":  1,
+        "opis":"Quattro stagione (Četiri godišnja doba) — paradajz, mocarela, pečurke, školjke, račići, paprika, šunka, crne masline, maslinovo ulje, limunov sok.",
+        "cena":600
+    },
+
+    {
+        "id": 7,
+        "slika": {
+            "src":"img/proizvodi/pasta3.jpg",
+            "alt":"slika7"
+        },
+        "naziv": "All'Amatriciana",
+        "katId":  2,
+        "opis":"Pasta All'Amatriciana — slanina, sir, maslinovo ulje, belo vino, konzervirani paradajz, ljuta papričica;",
+        "cena":470
+    },
+
+    {
+        "id": 8,
+        "slika": {
+            "src":"img/proizvodi/salata3.jpg",
+            "alt":"slika11"
+        },
+        "naziv": "Kineska salata sa piletinom",
+        "katId":  3,
+        "opis":"Kineska salata sa piletinom — pileće belo meso, šargarepa, crni luk, koren celera, krastavac,soja sos, susam, đumbir, cimet, ulje, jabukovo sirće.",
+        "cena":550
+    },
+
+    {
+        "id": 9,
+        "slika": {
+            "src":"img/proizvodi/pica3.jpg",
+            "alt":"slika3"
+        },
+        "naziv": "Margarita",
+        "katId":  1,
+        "opis":"Margarita — oljušteni paradajz, mocarela, maslinovo ulje, bosiljak.",
+        "cena":560
+    },
+
+    {
+        "id": 10,
+        "slika": {
+            "src":"img/proizvodi/salata2.jpg",
+            "alt":"slika10"
+        },
+        "naziv": "Grčka salata",
+        "katId":  3,
+        "opis":"Grčka salata — paprika (crvena i zelena), krastavac, veći crveni luk, paradajz, crne masline, feta, origano, maslinovo ulje.",
+        "cena":420
+    },
+
+    {
+        "id": 11,
+        "slika": {
+            "src":"img/proizvodi/pasta4.jpg",
+            "alt":"slika8"
+        },
+        "naziv": "Penne All'Arrabbiata",
+        "katId":  2,
+        "opis":"Penne All'Arrabbiata — penne testenina, sveže ili suve ljute papričice, beli luk, paradajz,  g pekorino sir, svež bosiljak, maslinovo ulje.",
+        "cena":700
+    },
+
+    {
+        "id": 12,
+        "slika": {
+            "src":"img/proizvodi/pica4.jpg",
+            "alt":"slika4"
+        },
+        "naziv": "Napoletana",
+        "katId":  1,
+        "opis":"Napolitana — paradajz, svež sir, salama, maslinovo ulje.",
+        "cena":480
+    }
+
+]
+

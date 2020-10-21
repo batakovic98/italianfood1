@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "slika":{
+            "src":"img/z1.jpg",
+            "alt":"radnik1"
+        },
+        "ime": "Marko Marković",
+        "radnoMesto":"Šef kuhinje",
+        "opis":"On je onaj deo naše kuhinjske simfonije koji naša jela čini jedinstvenim i dobro uklopljenim."
+    },
+
+    {
+        "id": 2,
+        "slika":{
+            "src":"img/z3.jpg",
+            "alt":"radnik2"
+        },
+        "ime": "Ivan Ivanović",
+        "radnoMesto":"Pomoćni kuvar",
+        "opis":"Gospodin koji daje dušu ovom mestu. Uvek tu i uvek spreman."
+    },
+
+    {
+        "id": 3,
+        "slika":{
+            "src":"img/z2.jpg",
+            "alt":"radnik3"
+        },
+        "ime": "Ana Pavlović",
+        "radnoMesto":"Šankerica",
+        "opis":"Pruža profesionalne i kvalitetne usluge, po instrukcijama menadžera restorana. Priprema i izdaje piće kolegi konobaru, pravi koktele i dekoracije."
+        
+    },
+
+    {
+        "id": 4,
+        "slika":{
+            "src":"img/z4.jpg",
+            "alt":"radnik4"
+        },
+        "ime": "Darko Jevtić",
+        "radnoMesto":"Konobar",
+        "opis":"Prepoznatljiv po izuzetnom oku za detalje i odličnim osećajem za želje gostiju."
+    }
+]

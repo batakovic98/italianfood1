@@ -1,0 +1,22 @@
+[
+    {
+    "link": "index.html",
+    "text": "Home",
+    "aktivan": "tm-nav-link"
+    },
+    {
+    "link": "about.html",
+    "text": "O nama",
+    "aktivan": "tm-nav-link"
+    },
+    {
+    "link": "contact.html",
+    "text": "Kontakt",
+    "aktivan": "tm-nav-link active"
+    },
+    {
+    "link": "autor.html",
+    "text": "O autoru",
+    "aktivan": "tm-nav-link"
+    }  
+]
